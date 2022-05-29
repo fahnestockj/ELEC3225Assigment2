@@ -1,4 +1,4 @@
 # Incremental Model
-![incrementalDiagram](fahnestock/img/incrementalModelDiagram.png)
+![incrementalDiagram](img/incrementalModelDiagram.png)
 
 Similarly to the other two models start with the interface. The schedule for the incremental model resembles a sped up version of the waterfall model where the full schedule is squeezed into nine day sprints. These sprints involve just writing the bare-bones on the first pass. After a sprint or two an MVP should be ready for feedback from the owners/customers. The initial feedback is vital to directing where the focus of the next sprints should be. Depending on the project the sampling of feedback is important as well with target customers feedback being weighted the highest. For this project show the MVP to another student and ask for feedback. Direct the next sprints with it for what features are a priority. By directing the project this way you remain flexible, and ensure you're always working on what the customer/owner needs the most.
