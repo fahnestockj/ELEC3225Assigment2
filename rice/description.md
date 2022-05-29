@@ -17,7 +17,7 @@ requirements - user classes, attributes, and methods, derived classes and their 
 ![incremental.png](incremental.png)
 Outline: mostly given in Assignment statement
 concurrent activities: make student database and validate, make class database and validate, define any new functionality or customer needs
-note: maintain many different versions during incremental development 
+note: maintain many different versions using git branches during incremental development
 <!-- Throw in how you'll maintain different version (probably git branching) -->
 
 ## Integration and Configuration:
@@ -26,6 +26,7 @@ note: maintain many different versions during incremental development
 - if we want to use a GUI, we could use tkinter or pyqt
 - i'm sure we could find a way to use sqlite for python to get our databases set up and working
 - the rest of the code **SHOULD** be quite simple, but we could always research more to see if we can frankenstein even more code into our project
+- we could use a package manager (I'm familiar with pip) for easy installation and running of the program
 <!-- Something I forgot as well - discuss a package manager,  conda or pip or something -->
 
 I think the smartest way to do INT&CONFIG is to first develop all the classes for users and their associated functions (reusing any code for simple methods). THEN move on to using tools like SQLite to get the databases working.
